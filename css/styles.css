@@ -8,27 +8,27 @@
 body {
 	font-family: serif;
 	color: #ededf4;
-	background-color: #f8f8fc;
+	background-color: #a3bce7;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #115762;
+    background-color: #213457;
 }
 
 .resume-main {
-	background-color: #467880;
+	background-color: #405d90;
 }
 
 .resume-aside {
-	background-color: #467880;
+	background-color: #405d90;
 }
 
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "♥";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -48,4 +48,16 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.contact-item {
+	background-color: #213457;
+}
+
+.link-color{
+	color:  black;
+}
+.d-flex-align-items-center
+{
+	color: rgb(99, 167, 235)
 }
