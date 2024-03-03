@@ -4,7 +4,7 @@ A template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on <(https://valeriascheutjens.github.io/Resume/)> to see what the résumé looks like when published!
+Click on <([https://valeriascheutjens.github.io/Resume/](https://valeriascheutjens.github.io/Resume/)}> to see what the résumé looks like when published!
 
 ## Create your own CV
 
