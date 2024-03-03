@@ -51,7 +51,7 @@ body {
 }
 
 .contact-item {
-	background-color: #dae2d9;
+	background-color: #d2d898;
 }
 
 .link-color{
@@ -65,4 +65,12 @@ body {
 .bio-text{
 	color: #d2d898;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.biography-details{
+	color: #d2d898;
+}
+
+.skill-list{
+	color: #d2d898;
 }
