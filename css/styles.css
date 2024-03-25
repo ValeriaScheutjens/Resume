@@ -73,4 +73,9 @@ body {
 
 .skill-list{
 	color: #d2d898;
+	font-family: "Oswald", sans-serif;
+}
+
+.textfonttitle{
+	font-family: "Oswald", sans-serif;
 }
